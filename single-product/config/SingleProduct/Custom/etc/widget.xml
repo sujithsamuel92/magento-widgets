@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgets>
+    <catalog_product_link>
+        <parameters>
+            <template>
+                <values>
+                    <custom_product translate="label">
+                        <value>SingleProduct/widget/SingleProduct.phtml</value>
+                        <label>Single Product Template </label>
+                    </custom_product>
+                </values>
+            </template>
+        </parameters>
+    </catalog_product_link>
+</widgets>
